@@ -2,4 +2,7 @@ Accessibility Landmarks
 Accessibility Buttons & Links
 Accessibility Role, Name & Value
 Accessibility Color Contrast
-
+Accessibility Meaningful & Decorative Images
+Accessibility Descriptive Texts for Images
+Accessibility Link States
+Accessibility Link Text
