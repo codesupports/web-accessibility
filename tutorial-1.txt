@@ -6,3 +6,4 @@ Accessibility Meaningful & Decorative Images
 Accessibility Descriptive Texts for Images
 Accessibility Link States
 Accessibility Link Text
+
