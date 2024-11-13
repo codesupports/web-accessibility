@@ -27,3 +27,27 @@ CSS Question:
 
 
 
+=============
+1) role : ARIA roles define the purpose or type of an element, <div role="button">Submit</div>
+2) landmark
+3) aria-label : Provides a text description for elements (e.g., icons). <button aria-label="Close">X</button>
+4) aria describe
+5) aria descrived by
+6) aria-labedby
+7) aria-live:  For dynamic content updates, such as alerts or notifications. <div aria-hidden="true">This will be ignored by screen readers.</div>
+8) aria-pressed: Indicate the state of interactive elements like form fields or buttons
+9) aria-expanded: Indicates if an element is expanded or collapsed. <button aria-expanded="false">Menu</button>
+10) aria-hidden: Hides an element from screen readers. <div aria-hidden="true">This will be ignored by screen readers.</div>
+11) aria-checked:  Specifies the state of a checkbox or toggle button. <input type="checkbox" aria-checked="false">
+
+
+
+
+
+
+
+
+
+
+
+
