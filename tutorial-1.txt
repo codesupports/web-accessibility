@@ -7,3 +7,23 @@ Accessibility Descriptive Texts for Images
 Accessibility Link States
 Accessibility Link Text
 
+
+1) How can we achieve accessibility improvement using HTML?
+2) What are the key practices or techniques to make web pages more accessible with HTML alone?
+3) In what way does the use of HTML impact web accessibility, both positively and negatavily?
+4) Are the any common practices that uniintentionally hinder accessibility?
+5) Whaich specific html tags and attribute are commonly used to enhance accessibilty, and how dothey contribute to creating more accessible web experience?
+
+CSS Question:
+6) Can css affect web accessibility?
+7) How can the use of css affect the accesibilityof a website?
+8) Are there specific practices in css that can improve or hinder accessibility, and how might there be reflected in accessibilityaudits like lighthouse?
+   How does css influence a lighthouse scroe?
+8) Wahat sre various ways css usage can impact a websites Lighthouse Score? Are there any performance,accessibilty or best practices related to css that should be mindful of to ensure optimal Lighthouse score?
+9) what are the efficient font loading strategies for secondary font, specifically when a website uses a primary font for most of the page and secondary font that is only applied in a specific section ( which is not 
+   initially in the viewport)?What are the 
+10) could you explain in CSS box model and how it can be used to structure and design a web page effectively ? what are the key aspects of the box model that developers need to consider for layout and styling?
+11) how would you design a theme based web application (e.g.with light, dark,a custom themes) at an architectural level,  ensuring that theme switching is handled entirely using CSS without the need for Java Script? what CSS technique and strategies would be required to manage multiple themes while maintaining performance and scalability?
+
+
+
