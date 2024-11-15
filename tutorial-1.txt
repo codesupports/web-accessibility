@@ -39,7 +39,7 @@ CSS Question:
 9) aria-expanded: Indicates if an element is expanded or collapsed. <button aria-expanded="false">Menu</button>
 10) aria-hidden: Hides an element from screen readers. <div aria-hidden="true">This will be ignored by screen readers.</div>
 11) aria-checked:  Specifies the state of a checkbox or toggle button. <input type="checkbox" aria-checked="false">
-
+12) aria-required: aria-required is useful tag to notify the screenreader users about which input fields are 'required' <input type="text" required aria-required="true" />
 
 
 
