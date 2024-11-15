@@ -29,11 +29,12 @@ CSS Question:
 
 =============
 1) role : ARIA roles define the purpose or type of an element, <div role="button">Submit</div>
-2) landmark
+2) landmark : Landmarks in web accessibility are regions or sections of a web page that are marked using semantic 
+   HTML or ARIA roles to make navigation easier for users with disabilities. (Header, footer, nav, section, main, aside,)
 3) aria-label : Provides a text description for elements (e.g., icons). <button aria-label="Close">X</button>
-4) aria describe
-5) aria descrived by
-6) aria-labedby
+4) aria-description: (Not a Valid ARIA Attribute) 
+5) aria descrivedby or aria descibe (both are same): 
+6) aria-labedby; Read the content from other element via ID's (or multple id's)
 7) aria-live:  For dynamic content updates, such as alerts or notifications. <div aria-hidden="true">This will be ignored by screen readers.</div>
 8) aria-pressed: Indicate the state of interactive elements like form fields or buttons
 9) aria-expanded: Indicates if an element is expanded or collapsed. <button aria-expanded="false">Menu</button>
