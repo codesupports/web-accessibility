@@ -1,0 +1,5 @@
+1. What is web accessibility?
+Ans: Web accessibility refers to the practice of designing and developing websites, web applications, and digital content so that they are usable by people with a wide range of disabilities. 
+
+2. What are the WCAG guidelines, and why are they important?
+Ans: 
